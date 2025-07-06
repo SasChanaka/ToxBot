@@ -1,6 +1,6 @@
 # 🤖 ToxBot – Gemini-Powered Chatbot
 
-ToxBot is a sleek, professional chatbot built with [Streamlit](https://streamlit.io/) and powered by [Google's Gemini API](https://ai.google.dev). It delivers intelligent responses using Gemini 2.5 and offers a clean, user-friendly interface.
+ToxBot is a sleek, professional chatbot built with [Streamlit](https://streamlit.io/) and powered by [Google's Gemini API](https://ai.google.dev). It delivers intelligent responses using Gemini 2.5 and offers a clean, user friendly interface.
 
 ![ToxBot Screenshot](./assets/screenshot.png) <!-- Replace with actual image path -->
 
